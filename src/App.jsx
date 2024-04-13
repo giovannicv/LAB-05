@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <h1>HOLA DESDE VITE</h1>
-      <Button text={buttonText}/>
+      <RandomComponent text={buttonText}/>
     </>
   )
 }

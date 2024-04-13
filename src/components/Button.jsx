@@ -1,4 +1,4 @@
-import { useState } from "react";
+/*import { useState } from "react";
 
 export const Button = props => {
     const { text } = props;
@@ -12,11 +12,11 @@ export const Button = props => {
             { text } { count }
         </button>
     );
-}
+}*/
 
-/*import { useState } from "react";
+//import { useState } from "react";
 
-export const Button = (props) => {
+/*export const Button = (props) => {
     const { text } = props;
     const [count, setCount] = useState(0);
 

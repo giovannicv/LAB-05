@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export const Button = (props) => {
+export const RandomComponent = (props) => {
     const { text } = props;
     const [count, setCount] = useState(0);
 
